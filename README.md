@@ -1,7 +1,7 @@
 Project Decsrption:
 A Hackerrank like contest application built by applying their Core Java + design skills
 ---------------------
-Implement Services and Repositories:
+Implemented Services and Repositories:
 [Scope of Work]
 ---------------------
 Explored the different types of class relationships and their purpose.
@@ -12,7 +12,7 @@ Skills used:
 Object Oriented Design
 
 ---------------------
-Implement Entities:
+Implemented Entities:
 [Scope of Work]
 ---------------------
 Implemented entities with the identified attributes and their behaviour.
@@ -22,7 +22,7 @@ Skills used
 Java, Unit Testing, Test Driven Development
 
 -----------------------
-Implement Services and Repositories:
+Implemented Services and Repositories:
 [Scope of Work]
 ---------------------
 Implemented services & repositories layer of CodinGame adhering to the SOLID principles.
